@@ -1,2 +1,0 @@
-# Creativity
-Show your creativity.
