@@ -1,4 +1,6 @@
 import numpy as np
 
 n = np.array([1, 2, 3])
-print(type(n))
+m = np.array([4, 5, 6])
+
+print(n * m)
